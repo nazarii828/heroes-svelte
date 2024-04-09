@@ -1,5 +1,5 @@
 //import App.svelte
-//updated
+//updated to latest
 
 
 Co-authored-by: Joel Califa <602352+califa@users.noreply.github.com>
